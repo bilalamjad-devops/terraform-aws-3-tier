@@ -1,4 +1,4 @@
-# terraform-aws-3-tier
+# Building a Highly Available Three-Tier Web Application on AWS Using Terraform, ALB, Auto Scaling, and RDS
 
 ## Architecture
 
